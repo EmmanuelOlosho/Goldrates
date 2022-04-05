@@ -1,0 +1,128 @@
+@font-face {
+  src: url(../fonts/arait.ttf);
+  font-family:arait;
+}
+@font-face {
+  src: url(../fonts/araR.ttf);
+  font-family:araR;
+}
+@font-face {
+  src: url(../fonts/poiret.ttf);
+  font-family:poiret;
+}
+@font-face {
+  src: url(../fonts/Questrial-Regular.ttf);
+  font-family:Quest;
+}
+@font-face {
+  src: url(../fonts/IBMPlexSansB.ttf);
+  font-family:plexsansB;
+}
+@font-face {
+  src: url(../fonts/IBMPlexSansBi.ttf);
+  font-family:plexsansBi;
+}
+@font-face {
+  src: url(../fonts/IBMPlexSansR.ttf);
+  font-family:plexsansR;
+}
+@font-face {
+  src: url(../fonts/ralewayR.ttf);
+  font-family:ralewayR;
+}
+@font-face {
+  src: url(../fonts/deltaR.ttf);
+  font-family:deltaR;
+}
+@font-face {
+  src: url(../fonts/ralewayT.ttf);
+  font-family:ralewayT;
+}
+@font-face {
+  src: url(../fonts/oxygenR.ttf);
+  font-family:oxygenR;
+}
+@font-face {
+  src: url(../fonts/prosperR.ttf);
+  font-family:prosperR;
+}
+@font-face {
+  src: url(../fonts/oxygenB.ttf);
+  font-family:oxygenB;
+}
+@font-face {
+  src: url(../fonts/oxygenL.ttf);
+  font-family:oxygenL;
+}
+@font-face {
+  src: url(../fonts/promptoR.ttf);
+  font-family:promptoR;
+}
+@font-face {
+  src: url(../fonts/promptoB.ttf);
+  font-family:promptoB;
+}
+@font-face {
+  src: url(../fonts/promptoL.ttf);
+  font-family:promptoL;
+}
+.poiret{
+	font-family: poiret;
+}
+.prosperR{
+	font-family: prosperR;
+}
+.promptoR{
+	font-family: promptoR;
+}
+.promptoL{
+	font-family: promptoL;
+}
+.promptoB{
+	font-family: promptoB;
+}
+.ralewayR{
+	font-family: ralewayR;
+}
+.ralewayT{
+	font-family: ralewayT;
+}
+.oxygenB{
+	font-family: oxygenB;
+}
+.oxygenL{
+	font-family: oxygenL;
+}
+.oxygenR{
+	font-family: oxygenR;
+}
+.deltaR{
+	font-family: deltaR;
+}
+.arait{
+	font-family: arait;
+}
+.araR{
+	font-family: araR;
+}
+.helvetica{
+	font-family: helvetica;
+}
+.garamond{
+	font-family: garamond;
+}
+.poppings{
+	font-family: poppins;
+}
+.plexSansB{
+  font-family:plexsansB; 
+}
+.plexSansBi{
+  font-family:plexsansBi; 
+}
+.plexSansR{
+  font-family:plexsansR; 
+}
+.Quest{
+  font-family:Quest; 
+}
